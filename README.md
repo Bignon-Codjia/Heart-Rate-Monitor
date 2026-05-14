@@ -39,7 +39,7 @@ This project is a real-time health monitoring system that interfaces a **MAX3010
 
 ### 1. Firmware Installation
 1. Install the `MAX30100lib` by OXullo via the Arduino Library Manager.
-2. Open `firmware/heart_monitor_pox.ino` in your Arduino IDE.
+2. Open `Web-Serial_Heart_Rate_SpO2_Monitor_Code.ino` in your Arduino IDE.
 3. Upload the code to your board.
 4. **Important:** Keep the Serial Monitor closed in the IDE so the web browser can access the port.
 
