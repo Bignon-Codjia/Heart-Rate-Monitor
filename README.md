@@ -44,7 +44,7 @@ This project is a real-time health monitoring system that interfaces a **MAX3010
 4. **Important:** Keep the Serial Monitor closed in the IDE so the web browser can access the port.
 
 ### 2. Launching the Dashboard
-1. Open the `web/index.html` file in **Google Chrome** or **Microsoft Edge**.
+1. Open the `Graphicel interface.html` file in **Google Chrome** or **Microsoft Edge**.
 2. Click the **📡 Connect to Serial Port** button.
 3. Select your device from the list and click **Connect**.
 4. Place your finger on the sensor and wait 10-15 seconds for calibration.
