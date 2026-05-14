@@ -1,6 +1,7 @@
 # Web-Serial Heart Rate & SpO2 Monitor
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Language: HTML](https://img.shields.io/badge/Language-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Web Serial API](https://img.shields.io/badge/Web_Serial_API-Integrated-blue?style=for-the-badge)
 
